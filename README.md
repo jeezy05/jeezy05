@@ -1,3 +1,4 @@
+<div align="center">
 ![My Banner](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3ZqMmxtZnBkbG52aGtyN3BobjNpdWN2a2VidWJicWs2MDRsYmdkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H2Klmtq2e2dvTUnSFC/200.gif)
 
 # Hi there, I’m Jai Awasthi 👋  
@@ -40,3 +41,4 @@ Feel free to reach out if you want to collaborate or chat about software, AI, or
 - Email: jayawasthi891@gmail.com
 
 Thanks for stopping by — looking forward to shipping something great. 🚀  
+</div>
