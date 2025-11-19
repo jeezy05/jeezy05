@@ -1,4 +1,4 @@
-![My Banner]([https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3ZqMmxtZnBkbG52aGtyN3BobjNpdWN2a2VidWJicWs2MDRsYmdkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H2Klmtq2e2dvTUnSFC/200.gif])
+![My Banner](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ3ZqMmxtZnBkbG52aGtyN3BobjNpdWN2a2VidWJicWs2MDRsYmdkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H2Klmtq2e2dvTUnSFC/200.gif)
 
 # Hi there, I’m Jai Awasthi 👋  
 Aspiring Software Developer & AI Engineer building scalable, testable systems with real-world impact.
