@@ -16,13 +16,14 @@ I’m currently pursuing a B.Tech in Computer & Communication Engineering at **L
 - **Reliable Code & Dev Practices** – I write unit/integration tests, use version control (Git), and focus on maintainability, readability and performance.
 
 ## 🧩 Key Projects  
-### ResearchMate – RAG-Based Research Paper Q&A System  
-Built a full stack system that ingests research documents, indexes semantic vectors, and serves context-aware answers via local LLMs. Tech: Python • FastAPI • ChromaDB • Streamlit.
+### Brevio  | Next.js, Convex, LangChain, Google Gemini API, Clerk, PayPal SDK
+Developed a web app enabling users to upload PDFs and ask context-aware questions, generating and saving structured
+AI-generated notes
 
-### Brain Age Prediction using T1-Weighted MRI  
+### Brain Age Prediction using T1-Weighted MRI  | Python, NiBabel, scikit-image, SciPy, NumPy
 Developed preprocessing pipelines (normalization, feature extraction), deep regression models and evaluation modules to estimate brain age and detect anomalies. Tech: Python • PyTorch • Nibabel • Scikit-learn.
 
-### Document Categorization with Knowledge Distillation  
+### Collab-Board | React.js, Node.js, Express.js, Flask, Tesseract-OCR  
 Compressed a BERT model into a lightweight CNN (100× fewer parameters) while maintaining competitive accuracy. Engineered evaluation frameworks and testing utilities. Tech: Python • PyTorch • BERT • CNNs.
 
 *(You can check more at: https://github.com/jeezy05)*
@@ -31,7 +32,7 @@ Compressed a BERT model into a lightweight CNN (100× fewer parameters) while ma
 **Languages:** Python · Java · C++ · SQL · JavaScript/TypeScript  
 **Frameworks/Tools:** FastAPI · Flask · React (basic) · Streamlit · Docker · Git · Linux  
 **AI/ML:** PyTorch · TensorFlow · HuggingFace Transformers · RAG Systems · ChromaDB  
-**Data & DevOps:** Pandas · NumPy · Jupyter · CI/CD (exposure) · Testing & Debugging
+**Data & DevOps:** Pandas · NumPy · Jupyter · Testing & Debugging
 
 ## 🎯 What I’m Looking For  
 An opportunity to join a high-energy team building AI-powered applications at scale — where I contribute to backend systems, integrate modern LLM workflows, and help bring product features from conception to production.
